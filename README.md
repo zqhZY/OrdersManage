@@ -1,0 +1,2 @@
+# OrdersManage
+springmvc+mybatis实现mysql数据库商品信息的发布,登陆用户可添加订单
